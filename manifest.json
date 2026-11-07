@@ -1,0 +1,8 @@
+{
+    "name": "Offline Audio",
+    "short_name": "Player",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#121212"
+}
